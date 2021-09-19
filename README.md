@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darryl-young
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning to code in R and R studio
+- 🌱 I’m currently advancing my techniques of coding in R
 - 💞️ I’m looking to collaborate on any project that excites me
 - 📫 How to reach me: dy.darrylyoung@gmail.com
